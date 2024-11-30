@@ -34,5 +34,8 @@ We have train model on google colab and saved_model_24.h5 is for 5 epochs and sa
 ## First Image
 ![](./public/ss1.JPG)
 
-## Secode Image
-![](./public/ss2.JPG)
+## Abnormal Event-1
+![](./public/ss_2.png)
+
+## Abnormal Event-2
+![](./public/ss_3.png)
